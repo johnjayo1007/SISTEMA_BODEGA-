@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UPN\\UPN ciclo 4\\ESTRUCTURA DE DATOS\\DESAFIO\\BodegaV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E32540D-2603-3537-8C98-9C8406FAC827}|SistemaRupireV2\\SistemaRupireV2.csproj|c:\\users\\usuario\\onedrive\\documentos\\upn\\upn ciclo 4\\estructura de datos\\desafio\\bodegav2\\sistemarupirev2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E32540D-2603-3537-8C98-9C8406FAC827}|SistemaRupireV2\\SistemaRupireV2.csproj|solutionrelative:sistemarupirev2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E32540D-2603-3537-8C98-9C8406FAC827}|SistemaRupireV2\\SistemaRupireV2.csproj|c:\\users\\usuario\\onedrive\\documentos\\upn\\upn ciclo 4\\estructura de datos\\desafio\\bodegav2\\sistemarupirev2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E32540D-2603-3537-8C98-9C8406FAC827}|SistemaRupireV2\\SistemaRupireV2.csproj|solutionrelative:sistemarupirev2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E32540D-2603-3537-8C98-9C8406FAC827}|SistemaRupireV2\\SistemaRupireV2.csproj|c:\\users\\usuario\\onedrive\\documentos\\upn\\upn ciclo 4\\estructura de datos\\desafio\\bodegav2\\sistemarupirev2\\vistas\\vistacliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E32540D-2603-3537-8C98-9C8406FAC827}|SistemaRupireV2\\SistemaRupireV2.csproj|solutionrelative:sistemarupirev2\\vistas\\vistacliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VistaCliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UPN\\UPN ciclo 4\\ESTRUCTURA DE DATOS\\DESAFIO\\BodegaV2\\SistemaRupireV2\\Vistas\\VistaCliente.xaml.cs",
+              "RelativeDocumentMoniker": "SistemaRupireV2\\Vistas\\VistaCliente.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UPN\\UPN ciclo 4\\ESTRUCTURA DE DATOS\\DESAFIO\\BodegaV2\\SistemaRupireV2\\Vistas\\VistaCliente.xaml.cs",
+              "RelativeToolTip": "SistemaRupireV2\\Vistas\\VistaCliente.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:21:56.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UPN\\UPN ciclo 4\\ESTRUCTURA DE DATOS\\DESAFIO\\BodegaV2\\SistemaRupireV2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SistemaRupireV2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UPN\\UPN ciclo 4\\ESTRUCTURA DE DATOS\\DESAFIO\\BodegaV2\\SistemaRupireV2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SistemaRupireV2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:10:11.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UPN\\UPN ciclo 4\\ESTRUCTURA DE DATOS\\DESAFIO\\BodegaV2\\SistemaRupireV2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SistemaRupireV2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UPN\\UPN ciclo 4\\ESTRUCTURA DE DATOS\\DESAFIO\\BodegaV2\\SistemaRupireV2\\MainWindow.xaml",
+              "RelativeToolTip": "SistemaRupireV2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T04:10:26.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

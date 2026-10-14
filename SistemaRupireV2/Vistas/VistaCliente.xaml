@@ -1,0 +1,136 @@
+﻿<UserControl x:Class="SistemaRupireV2.Vistas.VistaCliente"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Background="#FFFDFBF7">
+
+    <Grid>
+        <Image Source="pack://application:,,,/Recursos/Bodega_Rupire1.jpg"
+               Stretch="UniformToFill"
+               Opacity="0.12"
+               IsHitTestVisible="False"/>
+
+        <Grid Margin="15">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="230"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Border Grid.Column="0"
+                    CornerRadius="8"
+                    Padding="10"
+                    Margin="0,0,10,0"
+                    Background="#FFFDFBF7"
+                    BorderBrush="#FFEFECE6"
+                    BorderThickness="1">
+                <StackPanel>
+                    <TextBlock Text="Registrar Venta"
+                               FontWeight="Bold"
+                               FontSize="18"
+                               Margin="0,0,0,12"
+                               Foreground="#FF233133"/>
+
+                    <TextBlock Text="Código de atención:"
+                               FontWeight="SemiBold"
+                               Margin="0,0,0,3"/>
+                    <TextBox x:Name="txtCodigo"
+                             Height="28"
+                             IsReadOnly="True"
+                             Background="#FFEFECE6"
+                             FontWeight="Bold"
+                             VerticalContentAlignment="Center"
+                             Margin="0,0,0,10"/>
+                    <TextBlock Text="Producto:"
+                               FontWeight="SemiBold"
+                               Margin="0,0,0,3"/>
+                    <TextBox x:Name="txtProducto"
+                             Height="28"
+                             Margin="0,0,0,10"/>
+                    <TextBlock Text="Cantidad:"
+                               FontWeight="SemiBold"
+                               Margin="0,0,0,3"/>
+                    <TextBox x:Name="txtCantidad"
+                             Height="28"
+                             Margin="0,0,0,10"/>
+                    <TextBlock Text="Precio unitario (S/.):"
+                               FontWeight="SemiBold"
+                               Margin="0,0,0,3"/>
+                    <TextBox x:Name="txtPrecioU"
+                             Height="28"
+                             Margin="0,0,0,15"/>
+
+                    <Button x:Name="rbEncolar"
+                            Content="Registrar venta"
+                            Background="#FF233133"
+                            Foreground="White"
+                            FontWeight="Bold"
+                            Height="35"
+                            Margin="0,0,0,8"
+                            Click="rbEncolar_Click"
+                            Cursor="Hand"/>
+
+                    <Button x:Name="rbAtenderC"
+                            Content="Atender siguiente"
+                            Background="#FF8B6B43"
+                            Foreground="White"
+                            FontWeight="Bold"
+                            Height="35"
+                            Click="rbAtenderC_Click"
+                            Cursor="Hand"/>
+                </StackPanel>
+            </Border>
+
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0"
+                           Text="Ventas pendientes de atención"
+                           FontSize="18"
+                           FontWeight="Bold"
+                           Foreground="#FF233133"
+                           Margin="0,0,0,10"/>
+
+                <DataGrid x:Name="dgClientes"
+                          Grid.Row="1"
+                          AutoGenerateColumns="False"
+                          CanUserAddRows="False"
+                          IsReadOnly="True"
+                          SelectionMode="Single"
+                          HeadersVisibility="Column"
+                          GridLinesVisibility="Horizontal"
+                          Background="#E6FFFFFF"
+                          RowBackground="White"
+                          AlternatingRowBackground="#FFF3F0E9">
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Código"
+                                            Binding="{Binding CodigoA}"
+                                            Width="80"/>
+
+                        <DataGridTextColumn Header="Producto"
+                                            Binding="{Binding Producto}"
+                                            Width="*"/>
+
+                        <DataGridTextColumn Header="Cantidad"
+                                            Binding="{Binding Cantidad}"
+                                            Width="75"/>
+
+                        <DataGridTextColumn Header="Precio unitario"
+                                            Binding="{Binding PrecioUnitario,
+                                            StringFormat={}{0:N2}}"
+                                            Width="100"/>
+
+                        <DataGridTextColumn Header="Total (S/.)"
+                                            Binding="{Binding MontoTotal,
+                                            StringFormat={}{0:N2}}"
+                                            Width="100"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

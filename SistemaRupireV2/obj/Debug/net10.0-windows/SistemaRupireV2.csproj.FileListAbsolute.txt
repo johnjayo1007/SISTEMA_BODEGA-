@@ -1,0 +1,50 @@
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\bin\Debug\net10.0-windows\SistemaRupireV2.exe
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\bin\Debug\net10.0-windows\SistemaRupireV2.deps.json
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\bin\Debug\net10.0-windows\SistemaRupireV2.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\bin\Debug\net10.0-windows\SistemaRupireV2.dll
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\bin\Debug\net10.0-windows\SistemaRupireV2.pdb
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2_MarkupCompile.cache
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2_MarkupCompile.lref
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.g.resources
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.dll
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\refint\SistemaRupireV2.dll
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.pdb
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\ref\SistemaRupireV2.dll
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaR.425FD8DA.Up2Date
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\Vistas\VistaCliente.baml
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\Vistas\VistaCliente.g.cs
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\bin\Debug\net10.0-windows\SistemaRupireV2.exe
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\bin\Debug\net10.0-windows\SistemaRupireV2.deps.json
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\bin\Debug\net10.0-windows\SistemaRupireV2.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\bin\Debug\net10.0-windows\SistemaRupireV2.dll
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\bin\Debug\net10.0-windows\SistemaRupireV2.pdb
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\Vistas\VistaCliente.baml
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\Vistas\VistaCliente.g.cs
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2_MarkupCompile.cache
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2_MarkupCompile.lref
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.g.resources
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.dll
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\refint\SistemaRupireV2.dll
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.pdb
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaRupireV2.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\ref\SistemaRupireV2.dll
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\SistemaR.425FD8DA.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\Vistas\VistaInicio.baml
+C:\Users\Usuario\OneDrive\Desktop\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\Vistas\VistaInicio.g.cs
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\Vistas\VistaInicio.baml
+C:\Users\Usuario\OneDrive\Documentos\UPN\UPN ciclo 4\ESTRUCTURA DE DATOS\DESAFIO\BodegaV2\SistemaRupireV2\obj\Debug\net10.0-windows\Vistas\VistaInicio.g.cs
